@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thlee.github.io/deskdeck/sitemap.xml

@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://thlee.github.io/deskdeck/sitemap.xml
+
+Sitemap: https://thlee.github.io/docchaja/sitemap.xml
